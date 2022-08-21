@@ -1,0 +1,123 @@
+* {
+    font-family: 'Inter', sans-serif;
+}
+
+p {
+    font-size: 16px;
+}
+
+.light-text {
+    color: #848484;
+}
+
+.icon-sm {
+    width: 20px;
+}
+
+hr {
+    width: 90%;
+    color: #000;
+}
+
+h1 {
+    font-size: 64px;
+}
+
+
+.btn-red-outline {
+    padding: 10px 10px;
+    border-radius: 10px;
+    background: #fff;
+    border-color: #EE2E24;
+    border-width: 1px;
+}
+
+
+/* Navigation Bar */
+
+.nav-item {
+    padding: 0 14px;
+}
+
+li,
+a,
+button {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    color: #EE2E24;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: #EE2E24;
+}
+
+.logo {
+    max-width: 80px;
+}
+
+/* Hello, Lisa! */
+
+.btn-underline {
+    text-decoration: underline;
+    padding: 0px 20px;
+    border: none;
+    background: none;
+}
+
+.hero-image {
+    object-fit: cover;
+}
+
+.title-text {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.title-paragraph {
+    font-size: 20px;
+}
+
+/* 
+.floating-info {
+    padding: 0px 20px;
+    border-radius: 10px;
+    background: #fff;
+    border-width: 1px;
+}
+
+.icon-md {
+    width: 48px;
+    float: left;
+}
+
+.floating-info-text {
+    float: right;
+    align-items: center;
+} */
+
+
+
+
+/* Our Classes */
+
+.our-classes-text {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.our-classes-rule {
+    width: 100%;
+}
+
+.right-align {
+    float: right;
+}
+
+
+
+
+/* Join Goodlife Team */
+

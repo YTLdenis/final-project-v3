@@ -27,7 +27,7 @@ h1 {
 .btn-red-outline {
     padding: 10px 10px;
     border-radius: 10px;
-    background: #fff;
+    background: none;
     border-color: #EE2E24;
     border-width: 1px;
 }
@@ -72,8 +72,13 @@ button {
 .title-text {
     padding-left: 10%;
     padding-right: 10%;
-    padding-top: 10%;
-    padding-bottom: 10%;
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.title-text-unique {
+    padding-top: 8%;
+    padding-bottom: 8%;
 }
 
 .title-paragraph {
@@ -103,11 +108,6 @@ button {
 
 /* Our Classes */
 
-.our-classes-text {
-    padding-left: 10%;
-    padding-right: 10%;
-}
-
 .our-classes-rule {
     width: 100%;
 }
@@ -121,3 +121,16 @@ button {
 
 /* Join Goodlife Team */
 
+.join-gl-team {
+    background-image: url(/images/Friend\ workout.jpeg);
+    background-size: cover;
+}
+
+.white-text {
+    color: #fff;
+}
+
+.additional-padding-height {
+    padding-top: 20%;
+    padding-bottom: 20%;
+}

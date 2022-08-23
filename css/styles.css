@@ -14,6 +14,10 @@ p {
     width: 20px;
 }
 
+.icon-md {
+    width: 40px;
+}
+
 hr {
     width: 90%;
     color: #000;
@@ -23,17 +27,29 @@ h1 {
     font-size: 64px;
 }
 
+h2 {
+    font-size: 32px;
+}
 
 .btn-red-outline {
     padding: 10px 10px;
     border-radius: 10px;
     background: none;
     border-color: #EE2E24;
-    border-width: 1px;
+    border-width: px;
 }
 
 
 /* Navigation Bar */
+
+.navbar-brand {
+    margin-left: 8.5%;
+}
+
+.navbar-nav {
+    margin-right: 8.5%;
+}
+
 
 .nav-item {
     padding: 0 14px;
@@ -122,8 +138,9 @@ button {
 /* Join Goodlife Team */
 
 .join-gl-team {
-    background-image: url(/images/Friend\ workout.jpeg);
+    background-image: url(/Users/dl/Desktop/GitHub/final-project-v3/images/Friend-workout.jpeg);
     background-size: cover;
+    object-fit: cover;
 }
 
 .white-text {
@@ -133,4 +150,72 @@ button {
 .additional-padding-height {
     padding-top: 20%;
     padding-bottom: 20%;
+}
+
+
+/* Mobile App */
+
+.grey-background {
+    background-color: #D4D4D4;
+}
+
+.title-text-mobile-section {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 22%;
+    padding-bottom: 22%;
+}
+
+.padding-left {
+    padding-left: 10%;
+}
+
+.iphone {
+    object-fit: contain;
+}
+
+.text-margin-left {
+    margin-left: 20%;
+}
+
+/* Goodlife Content */
+
+.red {
+    color: #EE2E24;
+}
+
+.btn-email {
+    padding: 10px 10px;
+    border-radius: 10px;
+    background: none;
+    border-color: #959595;
+    border-width: 2px;
+}
+
+/* Footer Text */
+
+.footer-text {
+    font-size: 14px;
+}
+
+.dummy-text {
+    color: #D4D4D4;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.left-padding {
+    padding-left: 10%;
+}
+
+.right-padding {
+    padding-right: 10%;
+}
+
+.footer-rule {
+    background-color: #D4D4D4;
+    color: #EE2E24;
 }

@@ -105,6 +105,10 @@ button {
     width: 100%;
 }
 
+.red-text {
+    color: #EE2E24;
+}
+
 /* 
 .floating-info {
     padding: 0px 20px;

@@ -101,6 +101,9 @@ button {
     font-size: 20px;
 }
 
+.modal-image {
+    width: 100%;
+}
 
 /* 
 .floating-info {

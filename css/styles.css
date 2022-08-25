@@ -18,7 +18,7 @@ p {
     width: 40px;
 }
 
-hr {
+.section-rule {
     width: 90%;
     color: #000;
 }
@@ -226,4 +226,84 @@ h3 {
 .footer-rule {
     background-color: #D4D4D4;
     color: #EE2E24;
+}
+
+/* CLASS PAGE */
+
+.class-text {
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.btn-square-md {
+    width: 100px !important;
+    max-width: 100% !important;
+    max-height: 100% !important;
+    height: 100px !important;
+    text-align: center;
+    padding: 0px;
+    font-size:12px;
+    
+    }
+
+.filters-padding-height {
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.filter-section {
+    padding-top: 8%;
+    padding-bottom: 8%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.btn-spacing {
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.apply-btn {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.calendar-btn {
+    background-color: #F7F7F7;
+}
+
+.calendar-padding {
+    padding: 1.5%;
+    border-radius: 8px;
+}
+
+.capacity {
+    font-size: 12px;
+}
+
+.booking-btn {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.booking-btn-waitlist {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 39px;
+    padding-right: 39px;
+}
+
+.booking-btn-cancel {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 41px;
+    padding-right: 41px;
+}
+
+.classes-hr {
+    max-width: 100%;
 }

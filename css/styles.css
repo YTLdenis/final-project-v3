@@ -153,7 +153,7 @@ button {
 /* Join Goodlife Team */
 
 .join-gl-team {
-    background-image: url(/Users/dl/Desktop/GitHub/final-project-v3/images/Friend-workout.jpeg);
+    background-image: url(/images/Friend-workout.jpeg);
     background-size: cover;
     object-fit: cover;
 }

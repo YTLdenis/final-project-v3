@@ -39,6 +39,9 @@ h2 {
     border-width: px;
 }
 
+a:hover {
+    color: #848484;
+}
 
 /* Navigation Bar */
 
@@ -107,6 +110,10 @@ button {
 
 .red-text {
     color: #EE2E24;
+}
+
+.image-reduction {
+    padding-right: 10%;
 }
 
 /* 
@@ -228,6 +235,11 @@ h3 {
     color: #EE2E24;
 }
 
+
+
+
+
+
 /* CLASS PAGE */
 
 .class-text {
@@ -306,4 +318,16 @@ h3 {
 
 .classes-hr {
     max-width: 100%;
+}
+
+.footer-rule {
+    margin: 0;
+}
+
+.fixed-width-time {
+    width: 100px;
+}
+
+.fixed-width-classname {
+    width: 150px;
 }
